@@ -27,7 +27,7 @@ export const productList = [
   {
     id: 4,
     name: 'Phone Smart',
-    price: 5000,
+    price: 5001,
     description: 'Iphone'
   }
 ];
